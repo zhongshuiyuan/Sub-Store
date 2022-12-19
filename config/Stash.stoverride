@@ -24,13 +24,13 @@ cron:
 
 script-providers:
   sub-store-0:
-    url: https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-0.min.js
+    url: https://ghproxy.com/https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-0.min.js
     interval: 86400
 
   sub-store-1:
-    url: https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-1.min.js
+    url: https://ghproxy.com/https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-1.min.js
     interval: 86400
 
   cron-sync-artifacts:
-    url: https://github.com/sub-store-org/Sub-Store/releases/latest/download/cron-sync-artifacts.min.js
+    url: https://ghproxy.com/https://github.com/sub-store-org/Sub-Store/releases/latest/download/cron-sync-artifacts.min.js
     interval: 86400
